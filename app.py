@@ -2,7 +2,7 @@ import streamlit as st
 import os
 import json
 from groq import Groq
-from dotenv import load_dotenv
+from dotenv  import load_dotenv
 
 # 1. Configuration
 load_dotenv()
